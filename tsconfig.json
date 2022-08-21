@@ -19,7 +19,8 @@
       "server/*": ["server/*"],
       "utils/*": ["utils/*"],
       "pages/*": ["pages/*"],
-      "components/*": ["components/*"]
+      "components/*": ["components/*"],
+      "hooks/*": ["hooks/*"]
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
